@@ -1,4 +1,5 @@
 {
     "key1":"Xya",
-    "level1" : {  "level2": "level2" }
+    "level1" : {  "level2": "level2" },
+     "branches" : ["development", "staging", "production"]
 }
