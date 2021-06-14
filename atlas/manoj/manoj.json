@@ -1,3 +1,4 @@
 {
-    "key1":"Xya"
+    "key1":"Xya",
+    "level1" : {  "level2": "level2" }
 }
